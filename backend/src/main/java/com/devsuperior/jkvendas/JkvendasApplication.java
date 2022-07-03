@@ -8,6 +8,7 @@ public class JkvendasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JkvendasApplication.class, args);
+		
 	}
 
 }

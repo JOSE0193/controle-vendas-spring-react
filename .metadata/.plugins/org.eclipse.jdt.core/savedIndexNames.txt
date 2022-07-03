@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/home/jose0111/Documentos/José/Meus Projetos/projeto-dev-superior/projeto-sds5/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
