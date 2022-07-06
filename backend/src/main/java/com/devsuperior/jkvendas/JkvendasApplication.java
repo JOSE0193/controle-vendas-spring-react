@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JkvendasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JkvendasApplication.class, args);
-		
+		SpringApplication.run(JkvendasApplication.class, args);		
 	}
 
 }
