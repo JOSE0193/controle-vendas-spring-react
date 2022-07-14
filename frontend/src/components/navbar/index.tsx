@@ -1,4 +1,4 @@
-import ImgDsDark from "assets/images/ds-dark.svg";
+import ImgDsDark from "assets/images/jk-dark.svg";
 import { Link } from "react-router-dom";
 
 function NavBar() {
@@ -7,7 +7,7 @@ function NavBar() {
       <div className="container">
         <nav className="my-2 my-md-0 mr-md-3">
           <Link to="/">
-            <img src={ImgDsDark} alt="DevSuperior" width="120" />
+            <img src={ImgDsDark} alt="Jk logo" width="120" />
           </Link>
         </nav>
       </div>
